@@ -1,5 +1,5 @@
 # dcgan---demo-with-synthetic-db
-My implementation of DCGAN (tensorflow based) trained on a synthetic database large as you want
+My implementation of DCGAN (tensorflow based) trained on a synthetic database as large as you want
 
 First run "create_bench_folders.py" (change bench_name to any name you want)
 Then run "main.py" with similar bench_name
