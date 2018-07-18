@@ -1,5 +1,6 @@
-# Algorithm draw rectangles by imitating rectangles images 
+# Draw rectangles by imitating rectangles images 
 (and not by supplying it description of how does a rectangle looks like)
+
 It is actually my implementation of DCGAN (tensorflow based) trained on a synthetic database as large as you want
 
 First run "create_bench_folders.py" (change bench_name to any name you want)
@@ -22,6 +23,7 @@ Begining of training:
   <img src="train_241.png" style="width:100%">
   </div>
   </div>
+  
 Progress training:
 <div class="row">
   <div class="column">
