@@ -6,5 +6,10 @@ Then run "main.py" with similar bench_name
 
 See in Samples folder the evolving of the rectangles structure
 
-The model consists of an inverse G network, which still failed to be trained well enough.
-Hopfuly in next versions
+Ignore the inverse G network. (its a non finished trial)
+
+Samples from synthetic DB that was used to train:
+
+
+Generative images (of colored rectangles on white background):
+
