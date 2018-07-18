@@ -11,6 +11,9 @@ See in Samples folder the evolving of the rectangles structure
 Ignore the inverse G network. (its a non finished trial)
 
 Samples from synthetic DB that was used to train:
+<img src="Figure_1.png">
+<img src="Figure_2.png">
+<img src="Figure_3.png">
 
 Generative images (of colored rectangles on white background):
 
