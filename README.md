@@ -13,3 +13,4 @@ Samples from synthetic DB that was used to train:
 
 Generative images (of colored rectangles on white background):
 
+<img src="train_238.png">
